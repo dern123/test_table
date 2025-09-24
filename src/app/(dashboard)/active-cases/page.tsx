@@ -1,0 +1,1 @@
+export { default } from "@/components/active-cases/ActiveCases";
